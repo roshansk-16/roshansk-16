@@ -19,10 +19,10 @@
 
 ## 📌 Featured Projects
 
-### Smart Helmet with Accident Detection
-An IoT-based smart safety system that detects accidents and sends emergency alerts automatically.
+### ZARA – Offline AI Voice Assistant for Desktop Automation  
+Built a voice-controlled desktop assistant using Python, Vosk, and pyttsx3 that can execute system commands and open applications using speech recognition.
 
-### IoT Automation Projects
+### IoT Automation Projects  
 Built automation systems using sensors and embedded devices.
 
 ---
